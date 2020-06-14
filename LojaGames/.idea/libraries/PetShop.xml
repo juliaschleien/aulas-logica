@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PetShop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PetShop/dist/PetShop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
