@@ -1,0 +1,12 @@
+void main() {
+  
+  int baseMaior = 10;
+  int baseMenor = 4; 
+  int altura = 5; 
+  
+  var calculo = ((10 + 4) * 5) / 2;
+  
+  
+  print('Àrea do Trapézio é ${calculo}');
+  
+}

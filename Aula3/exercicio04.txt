@@ -1,0 +1,13 @@
+void main() {
+  
+  int lado01 = 10;
+  int lado02 = 10; 
+  int lado03 = 10; 
+  int lado04 = 10;
+  
+  var calculo = 10 * 10 ;
+  
+  
+  print('Àrea do Quadrado é ${calculo}');
+  
+}

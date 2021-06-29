@@ -1,0 +1,13 @@
+void main() {
+  
+  String nome = "Julia";
+  String sobrenome = "Schleien";
+  String endereco = "Rua Profa Silvia Síeben Meotti, número 84- bairro São José - Canoas/RS";
+  dynamic idade = 22;
+  
+  print(nome);
+  print(sobrenome);
+  print(endereco);
+  print (idade); 
+  
+}

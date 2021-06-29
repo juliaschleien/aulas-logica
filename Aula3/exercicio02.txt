@@ -1,0 +1,9 @@
+void main() {
+  
+  dynamic valorEntrada = "25 reais";
+  var multiplicacao = 25 * 4;
+  
+  print("Valor unitário da entrada: $valorEntrada\n"
+        "Valor da entrada multiplicado por 4 pessoas: $multiplicacao");
+  
+}
